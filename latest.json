@@ -1,0 +1,12 @@
+{
+  "version": "0.5.0",
+  "notes": "新增软件内问题反馈，可由用户确认上传压缩 CombatLog；新增非打扰式更新提示，由玩家查看说明后决定是否下载。",
+  "pub_date": "2026-10-10T08:06:18.8609186Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUtZMGp5dld2TFZzRzNSeDRmYVNkbWhBKzJyZm9pZmV3R1pSNktzVlg3VGNnVEREbzl0aGRUMVdWYmNRSEFIRFhQNU1hSGcyRVluTHhOVGVkdVBmL3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjE5NTc4CWZpbGU6V29XIEJsYW1lXzAuNS4wX3g2NC1zZXR1cC5leGUKM2VDTjFxUmx6UVFvZGUvV2lyMDlhcGovckdDTlNMMkJpQ1ZBSEoyUFFGaHdLVGwzcytKbEFGY2V4dFF2UmJsWW9Id1ZBZHNudlZaNXFLNkhCN2o1QkE9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.0/WoW-Blame-0.5.0-Windows-x64-Setup.exe"
+    }
+  }
+}
+

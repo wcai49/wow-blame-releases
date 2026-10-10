@@ -1,0 +1,18 @@
+这是 WoW Blame v0.5.0 的正式签名更新包。
+
+更新源：
+https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/latest.json
+
+安装程序：
+https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.0/WoW-Blame-0.5.0-Windows-x64-Setup.exe
+
+仓库：
+https://github.com/wcai49/wow-blame-releases
+
+发布文件：
+1. 根目录 latest.json。
+2. releases/v0.5.0/ 下的安装程序和同名 .sig。
+3. releases/v0.5.0/ 下的 SHA256.txt 和更新日志.txt。
+
+不要上传更新私钥。SHA256.txt 用于核对安装程序完整性。
+
