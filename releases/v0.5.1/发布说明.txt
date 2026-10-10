@@ -1,0 +1,12 @@
+这是 WoW Blame v0.5.1 的正式签名更新包。
+
+本版修复超大 CombatLog 无法反馈的问题。每份报告会只提取当前战斗片段，不上传整份日志。
+
+更新源：
+https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/latest.json
+
+安装程序：
+https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.1/WoW-Blame-0.5.1-Windows-x64-Setup.exe
+
+不要上传更新私钥。SHA256.txt 用于核对安装程序完整性。
+
