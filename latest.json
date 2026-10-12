@@ -1,12 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "修复超大 CombatLog 无法反馈：每份报告可只提取并上传当前 Boss 尝试或地下城战斗片段，无需重打。",
-  "pub_date": "2026-10-10T08:49:53.8561559Z",
+  "version": "0.5.4",
+  "notes": "修复未完成大秘境或普通史诗地下城后进入团本时，团本被错误并入地下城波次；现在会按副本、难度与首领事件自动切断残留状态。",
+  "pub_date": "2026-10-12T05:08:17.8503301Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUF0eHR2VmRoVW9ZclpYTkxhMjVIMHVDZ0VPMzVtUzNvWklXQ3lhc3VXVUdwQmdMU2taazQ5ZWxyV2tsWVN3VDdsZWRPdW9GVVVKeW10M3pjZGVWd2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjIyMTkzCWZpbGU6V29XIEJsYW1lXzAuNS4xX3g2NC1zZXR1cC5leGUKMjhFZlVya2phZHFlLzhkbjRWaG1FRFJaNDZWUEFENHFITkhMZ3NjU3dxaTdwR0RjQmpXNkxLdE0yOGlwNW1JNER1WnJZVWNiOUFUaU8ySVBLSEU2RHc9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.1/WoW-Blame-0.5.1-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUVuTmxXbE9CNzQvUzhoZG1KRUk1dWNHeWZqdWZqMVpxUTFYTFdaSUFGRWEyWGd1Yk5hb3F6OUxISjdUNUJ1eUw0UFpGZkpEd2ROdjFSc3h4bVFxblE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgxNjk3CWZpbGU6V29XIEJsYW1lXzAuNS40X3g2NC1zZXR1cC5leGUKUC82S3l6WmJUR3phRllpOE9YVVVRa0o1UVpZdjJaeFlybVJJc0kyTEppbG8rSDRzSGRuWnc3b1JZTktzUSs2Ky9GQzVWdVAycFFpSTJuMEd4QTFsRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.4/WoW-Blame-0.5.4-Windows-x64-Setup.exe"
     }
   }
 }
-
