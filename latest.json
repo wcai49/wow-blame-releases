@@ -1,11 +1,11 @@
 {
-  "version": "0.5.5",
-  "notes": "新增史诗陵寝哨兵专属复盘：原型毒液、螺旋毒素配对、剧毒水滴、活体毒液回程射线与凋零之血驱散统计。",
-  "pub_date": "2026-10-13T03:29:11.6536104Z",
+  "version": "0.5.6",
+  "notes": "修复应用内版本号未更新；修复原型毒液多人同时消圈误报，并明确列出撞到无圈后的被击飞者；螺旋毒素同一对重复错撞改为一行，区分未配对爆裂与错撞后爆裂。",
+  "pub_date": "2026-10-13T04:29:47.6728242Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUM3bWt3RGJzL0xTa05jNEU0dnVYdEozSjhTL3o5Rmc3MDlrTHVhb21RbHY4RkRWS0daYnlYcHFwNDZlTERBQS9NMmhUMlRGelprY1hwUXErVGE0MVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODYyMTUxCWZpbGU6V29XIEJsYW1lXzAuNS41X3g2NC1zZXR1cC5leGUKa2dzb2xKTlo4QXJZeFJXRnlPVjJkcUF5dzVSdkFicGZyMmU1M0VlbFZrcVR6U25mclJjZ2g3WktFUnNiVjN1WG1IeTgwOERRMUlDSTB1NDhqWWV0QXc9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.5/WoW-Blame-0.5.5-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUx4dFBjRmRsM3l2TkI2MURMOWFQdjdiY28vZER5ZW82b2hCT3BaUTFZZXRVU1NMRktEQytmU05GUlBZcjE4WWxYZm5YNTRSUDNJcDFsV1p6elFtL1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY1Nzg3CWZpbGU6V29XIEJsYW1lXzAuNS42X3g2NC1zZXR1cC5leGUKMTB1WFA4WjZ4Z1VyZmg0REdGWXFqV0I5ZXhOVVJQd2lHSStPMjFTd05TQllWSWowaXpMWjZORVpwWldRRVZCby85OGlPWVdNbll1aTYwOGkrbnZPQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.6/WoW-Blame-0.5.6-Windows-x64-Setup.exe"
     }
   }
 }
