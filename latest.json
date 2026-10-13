@@ -1,11 +1,11 @@
 {
-  "version": "0.5.8",
-  "notes": "修复螺旋毒素重复错撞统计与原型毒液同次撞飞重复计数；配对统一显示 8 球。",
-  "pub_date": "2026-10-13T05:01:33.5717499Z",
+  "version": "0.5.9",
+  "notes": "修复了字体过小的问题；更新内容改为逐项分行显示",
+  "pub_date": "2026-10-13T05:22:05.0601138Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUhsZEIwa3R0L0hYekRWelV2dkpmTThsQTV2R29XYjk4bXVFaURoK1ZSZFp4QjhPdzZsTHRGM21RM1NmaWY5Mk9FZTYwU1FIZlJJaWswTWNPWVlKaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY3NjkzCWZpbGU6V29XIEJsYW1lXzAuNS44X3g2NC1zZXR1cC5leGUKRjhyUVFWYkx6NlNqa0lnQVRsRmpvTWdFMWozL2Y4ZFJZUG5RM3ZuUWcwMlpjcTdMWnIzbW9CTGJyVjZtWTNEaDBHbW5IRVBLZmtNSDBHVWh0Y1M0Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.8/WoW-Blame-0.5.8-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVVBOZjIzYzJ6SEZJNGw0dGxWWVpCaUZIUzdnK2RMTytGbnViZHZXMmdCVTZSUCthVlYwZ2hZaUhFLzh0WVRpSkh4bWwrdnFlZy96SUVpUElmS0grZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY4OTI0CWZpbGU6V29XIEJsYW1lXzAuNS45X3g2NC1zZXR1cC5leGUKd0RzenVtSE9acExscjFtVjd3VFIwZzFEUC9DNk1VWDRJNSt1Q3duRzdCcFBOcWFKNlI4Yk15UXlSWk5uRkhBdFFtWittU1lYdktyMUVjUHlZY0RuQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.9/WoW-Blame-0.5.9-Windows-x64-Setup.exe"
     }
   }
 }
