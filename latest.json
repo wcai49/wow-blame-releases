@@ -1,11 +1,11 @@
 {
-  "version": "0.5.9",
-  "notes": "·修复了字体过小的问题\n·更新内容改为逐项分行显示",
-  "pub_date": "2026-10-13T05:22:05.0601138Z",
+  "version": "0.5.10",
+  "notes": "修复螺旋毒素错撞后被标成绿色的问题；正确消除为绿色，发生错撞为红色，未发生碰撞为橙色",
+  "pub_date": "2026-10-13T05:34:33.7365091Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVVBOZjIzYzJ6SEZJNGw0dGxWWVpCaUZIUzdnK2RMTytGbnViZHZXMmdCVTZSUCthVlYwZ2hZaUhFLzh0WVRpSkh4bWwrdnFlZy96SUVpUElmS0grZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY4OTI0CWZpbGU6V29XIEJsYW1lXzAuNS45X3g2NC1zZXR1cC5leGUKd0RzenVtSE9acExscjFtVjd3VFIwZzFEUC9DNk1VWDRJNSt1Q3duRzdCcFBOcWFKNlI4Yk15UXlSWk5uRkhBdFFtWittU1lYdktyMUVjUHlZY0RuQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.9/WoW-Blame-0.5.9-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUxZVVFBcXlWaTB1VWlHenUvSXdrU0trQjVGYm5FWHc1NkpHaVBHbllOQTJybnYyKzdsOGs3dDczbGFRZjBRZVBmUFFSdlVxNllFK3Z3UXdwak55Y0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY5NjczCWZpbGU6V29XIEJsYW1lXzAuNS4xMF94NjQtc2V0dXAuZXhlClR4eGtncHRtcll4dklBdENDTS9rTU91M0p5TDlRd1hpdnRRekVNSzVjeXV6c1M3bDdVWnpJbU9LaklROGJzL3RIdmpROHFTNEw0SEE0NitMVHR6NENRPT0K",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.10/WoW-Blame-0.5.10-Windows-x64-Setup.exe"
     }
   }
 }
