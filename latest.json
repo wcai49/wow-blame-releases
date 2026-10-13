@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "notes": "螺旋毒素说明优化：首跳前成功配对改为明确说明原始球数未写入日志；错撞标明非 4 层不会消圈，合并光环仍可继续互撞或撞到其他玩家。",
-  "pub_date": "2026-10-13T04:46:07.4222895Z",
+  "version": "0.5.8",
+  "notes": "修复螺旋毒素重复错撞统计与原型毒液同次撞飞重复计数；配对统一显示 8 球。",
+  "pub_date": "2026-10-13T05:01:33.5717499Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVVBTbUw5UlF0L2NIYUFwR0M2Q3dxem5Sd2xSSW0vRmRxMmNiT1A1cnJrTkJuR3g3cTFQWkozb21INGFJaS82R0prdDF6dzhHWC9hWTNMcEIvVloyQ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY2NzY3CWZpbGU6V29XIEJsYW1lXzAuNS43X3g2NC1zZXR1cC5leGUKenpGTUdNd0JydWVEQkJaOHRjYjRiRThQOTVFZVFGeWY2TGNublJ4ODlaTG8xK3FIQ2xOeTZab1RHU010bXVLNlU0NkRiVllVNGtCRlgrSU4zUGVSQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.7/WoW-Blame-0.5.7-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUhsZEIwa3R0L0hYekRWelV2dkpmTThsQTV2R29XYjk4bXVFaURoK1ZSZFp4QjhPdzZsTHRGM21RM1NmaWY5Mk9FZTYwU1FIZlJJaWswTWNPWVlKaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY3NjkzCWZpbGU6V29XIEJsYW1lXzAuNS44X3g2NC1zZXR1cC5leGUKRjhyUVFWYkx6NlNqa0lnQVRsRmpvTWdFMWozL2Y4ZFJZUG5RM3ZuUWcwMlpjcTdMWnIzbW9CTGJyVjZtWTNEaDBHbW5IRVBLZmtNSDBHVWh0Y1M0Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.8/WoW-Blame-0.5.8-Windows-x64-Setup.exe"
     }
   }
 }
