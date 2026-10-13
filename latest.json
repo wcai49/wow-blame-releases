@@ -1,11 +1,11 @@
 {
-  "version": "0.5.4",
-  "notes": "修复未完成大秘境或普通史诗地下城后进入团本时，团本被错误并入地下城波次；现在会按副本、难度与首领事件自动切断残留状态。",
-  "pub_date": "2026-10-12T05:08:17.8503301Z",
+  "version": "0.5.5",
+  "notes": "新增史诗陵寝哨兵专属复盘：原型毒液、螺旋毒素配对、剧毒水滴、活体毒液回程射线与凋零之血驱散统计。",
+  "pub_date": "2026-10-13T03:29:11.6536104Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUVuTmxXbE9CNzQvUzhoZG1KRUk1dWNHeWZqdWZqMVpxUTFYTFdaSUFGRWEyWGd1Yk5hb3F6OUxISjdUNUJ1eUw0UFpGZkpEd2ROdjFSc3h4bVFxblE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgxNjk3CWZpbGU6V29XIEJsYW1lXzAuNS40X3g2NC1zZXR1cC5leGUKUC82S3l6WmJUR3phRllpOE9YVVVRa0o1UVpZdjJaeFlybVJJc0kyTEppbG8rSDRzSGRuWnc3b1JZTktzUSs2Ky9GQzVWdVAycFFpSTJuMEd4QTFsRFE9PQo=",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.4/WoW-Blame-0.5.4-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUM3bWt3RGJzL0xTa05jNEU0dnVYdEozSjhTL3o5Rmc3MDlrTHVhb21RbHY4RkRWS0daYnlYcHFwNDZlTERBQS9NMmhUMlRGelprY1hwUXErVGE0MVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODYyMTUxCWZpbGU6V29XIEJsYW1lXzAuNS41X3g2NC1zZXR1cC5leGUKa2dzb2xKTlo4QXJZeFJXRnlPVjJkcUF5dzVSdkFicGZyMmU1M0VlbFZrcVR6U25mclJjZ2g3WktFUnNiVjN1WG1IeTgwOERRMUlDSTB1NDhqWWV0QXc9PQo=",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.5/WoW-Blame-0.5.5-Windows-x64-Setup.exe"
     }
   }
 }
