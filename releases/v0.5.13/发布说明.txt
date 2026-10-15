@@ -1,0 +1,9 @@
+WoW Blame v0.5.13 Windows x64
+
+安装程序：WoW-Blame-0.5.13-Windows-x64-Setup.exe
+
+本次版本重做软件内更新日志面板，加入新功能、Bug 修复、其他优化三个清晰分区，以及独立的底部反馈致谢。
+
+该文件为软件内热更新使用的签名安装程序。远程发布时先上传安装程序和签名，最后替换 latest.json。
+
+SHA-256：E01AA67D39C4EBDC3F51865FF037B26AACD09D91C6CB5B4FEE1C15D4B1D89B86
