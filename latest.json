@@ -1,11 +1,11 @@
 {
-  "version": "0.5.12",
-  "notes": "新增盘卷祭坛“永恒夜幕”逐轮破盾报告：展示初始护盾、团队破盾用时、个人打盾伤害、宠物贡献和破盾后的打断结果。\r\n只有该轮实际存在宠物或召唤物伤害的玩家才显示“宠物已合并”，纯本体伤害不再出现错误提示。\r\n修复盘卷祭坛护盾统计令其他日志解析变慢的问题；护盾吸收事件现在只在对应 Boss 战中处理。\r\n更新日志支持保留空行，功能列表与反馈致谢分区展示。\r\n\r\n\r\n\r\n感谢【没有留名】的【防护骑士】提出的建议。如果你也想留名的话记得在反馈时附上自己的角色名噢",
-  "pub_date": "2026-10-15T09:39:15.0140292Z",
+  "version": "0.5.13",
+  "notes": "新功能！\r\n\r\n- 新增结构化更新日志面板，按【新功能】、【修复的 BUG】和【其他优化】分区展示。\r\n\r\n修复的 BUG：\r\n\r\n1. 修复更新内容全部挤在一段纯文本中、重点难以辨认的问题。\r\n\r\n其他优化：\r\n\r\n- 右上角更新提示只显示各分类项目数量，不再堆入整篇日志。\r\n- Bug 使用编号列表，功能和优化使用圆点列表，反馈致谢独立放在最下方。\r\n- 增加小窗口适配，并对远程更新说明进行 HTML 转义。\r\n\r\n\r\n\r\n\r\n*感谢【没有留名】的【防护骑士】提供的优化建议。如果你也想留名的话，记得在反馈时附上自己的角色名噢。",
+  "pub_date": "2026-10-15T10:05:16.1452174Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUVEcnBjV1dJSUcwNzF1ZVdub04razY4OSt6dHRESXpvRitUM1YzVkRxZUZsWHk0U3ZUS1owYXVINkg5RGJ3eUhPVExFM3lyMW9nQnljdTZKampFQUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU3MTU0CWZpbGU6V29XIEJsYW1lXzAuNS4xMl94NjQtc2V0dXAuZXhlCjJtMlcxL1pHaHhlQ0V1eFNVMHg0c3NsMlpBdXJwczlUc000RUNCYUJMallseXNONjNSNDFrMFVoWUs1SGpPc2t4UzdhTEp4RjFTbVJNT0dlTWJUR0NnPT0K",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.12/WoW-Blame-0.5.12-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUY4K1VTRzREMEk5MnJiVkdBN1Y4QW9leUV1VkJ2cTVWZVBVTFkvcnRtNmhrSWJ0Qkw1cjZ3ZnFuaThnQm5DRnRQcldBblJSY1ZoSzI0ejUySWhRdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU4NzE1CWZpbGU6V29XIEJsYW1lXzAuNS4xM194NjQtc2V0dXAuZXhlCjFOSnJ4VVZaWkI5NmdKdlNJNk9hVjJUUVlpMW90YnpqTVlTSXoyN1hCWFdqMzdmY1JDeEl0L1A2VE1UY0swTlRNMVppZGk3UlJOT2orTStFa0hMQUFnPT0K",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.13/WoW-Blame-0.5.13-Windows-x64-Setup.exe"
     }
   }
 }
