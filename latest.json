@@ -1,11 +1,11 @@
 {
-  "version": "0.5.11",
-  "notes": "修复兽王猎人副宠与兽栏宠物伤害漏算；读取高级战斗日志中明确记录的主人GUID；同步修正烈毒之心、DPS排行和所有输出报告；感谢青蛙鼠鼠提供的Bug信息和实战日志",
-  "pub_date": "2026-10-14T04:08:51.6393386Z",
+  "version": "0.5.12",
+  "notes": "新增盘卷祭坛“永恒夜幕”逐轮破盾报告：展示初始护盾、团队破盾用时、个人打盾伤害、宠物贡献和破盾后的打断结果。\r\n只有该轮实际存在宠物或召唤物伤害的玩家才显示“宠物已合并”，纯本体伤害不再出现错误提示。\r\n修复盘卷祭坛护盾统计令其他日志解析变慢的问题；护盾吸收事件现在只在对应 Boss 战中处理。\r\n更新日志支持保留空行，功能列表与反馈致谢分区展示。\r\n\r\n\r\n\r\n感谢【没有留名】的【防护骑士】提出的建议。如果你也想留名的话记得在反馈时附上自己的角色名噢",
+  "pub_date": "2026-10-15T09:39:15.0140292Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUtkTjZQMXRzcmFSTWg3Y2g5Qks5YWhVN2RYSTdiU2w1TzkwT1RaQ1VDejJQTUxKN1p4dXA3cTVmaW9GdjV1aks0VmdudGVjeHhyYjB1OGtaY3RBY1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTUwOTMxCWZpbGU6V29XIEJsYW1lXzAuNS4xMV94NjQtc2V0dXAuZXhlCmFCT2lDeTY0aGsxWGwwaDBQcGE2WjdrMzVjMDE1dlJNYzhMVElWLzFlcERlRGxnQWU3QXc5bC9saFd3VXdwaUNVVDFNTkJsdXowY1lyZ3IrWTVuNERRPT0K",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.11/WoW-Blame-0.5.11-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUVEcnBjV1dJSUcwNzF1ZVdub04razY4OSt6dHRESXpvRitUM1YzVkRxZUZsWHk0U3ZUS1owYXVINkg5RGJ3eUhPVExFM3lyMW9nQnljdTZKampFQUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU3MTU0CWZpbGU6V29XIEJsYW1lXzAuNS4xMl94NjQtc2V0dXAuZXhlCjJtMlcxL1pHaHhlQ0V1eFNVMHg0c3NsMlpBdXJwczlUc000RUNCYUJMallseXNONjNSNDFrMFVoWUs1SGpPc2t4UzdhTEp4RjFTbVJNT0dlTWJUR0NnPT0K",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.12/WoW-Blame-0.5.12-Windows-x64-Setup.exe"
     }
   }
 }
