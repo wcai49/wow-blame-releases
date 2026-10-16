@@ -1,11 +1,11 @@
 {
-  "version": "0.5.13",
-  "notes": "新功能！\r\n\r\n- 新增结构化更新日志面板，按【新功能】、【修复的 BUG】和【其他优化】分区展示。\r\n\r\n修复的 BUG：\r\n\r\n1. 修复更新内容全部挤在一段纯文本中、重点难以辨认的问题。\r\n\r\n其他优化：\r\n\r\n- 右上角更新提示只显示各分类项目数量，不再堆入整篇日志。\r\n- Bug 使用编号列表，功能和优化使用圆点列表，反馈致谢独立放在最下方。\r\n- 增加小窗口适配，并对远程更新说明进行 HTML 转义。\r\n\r\n\r\n\r\n\r\n*感谢【没有留名】的【防护骑士】提供的优化建议。如果你也想留名的话，记得在反馈时附上自己的角色名噢。",
-  "pub_date": "2026-10-15T10:05:16.1452174Z",
+  "version": "0.5.14",
+  "notes": "修复的 BUG：\n\n1. 修复部分美服玩家即使使用中文客户端也无法读取 CombatLog 的问题。\n2. 修复正时区日志可能出现约 1 毫秒取整偏差的问题。\n\n其他优化：\n\n- 正确区分日志中的毫秒与 UTC 时区后缀，兼容正时区、负时区和旧式三位毫秒格式。\n- 支持使用 Tab 分隔时间与战斗事件的 CombatLog。",
+  "pub_date": "2026-10-16T07:46:51.7910190Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUY4K1VTRzREMEk5MnJiVkdBN1Y4QW9leUV1VkJ2cTVWZVBVTFkvcnRtNmhrSWJ0Qkw1cjZ3ZnFuaThnQm5DRnRQcldBblJSY1ZoSzI0ejUySWhRdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU4NzE1CWZpbGU6V29XIEJsYW1lXzAuNS4xM194NjQtc2V0dXAuZXhlCjFOSnJ4VVZaWkI5NmdKdlNJNk9hVjJUUVlpMW90YnpqTVlTSXoyN1hCWFdqMzdmY1JDeEl0L1A2VE1UY0swTlRNMVppZGk3UlJOT2orTStFa0hMQUFnPT0K",
-      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.13/WoW-Blame-0.5.13-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjkwWVV1c0JVVUkzWnFjbCt5U0g3aUtycTFZK3FqMFZFdllvZWx3ZlZsMDlnQVZYQ09Jb25wbjUxa2Z0UzRNYTNnZTJ5UGxscG8xdE5LTi8vOGhjWHlWdnZqSE9mL2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM2ODExCWZpbGU6V29XIEJsYW1lXzAuNS4xNF94NjQtc2V0dXAuZXhlClZkK2haZGUxMktsbU01Mm1EOTV0dnpjL0p0ZXFEelFMOUN0S3JJa24wNkIyY3NRVDQrNTVXL2J6M3NHRjJFNDB4T3FCMXhxditKR2V1RVp3bHRYeENnPT0K",
+      "url": "https://raw.githubusercontent.com/wcai49/wow-blame-releases/main/releases/v0.5.14/WoW-Blame-0.5.14-Windows-x64-Setup.exe"
     }
   }
 }
